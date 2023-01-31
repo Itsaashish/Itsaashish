@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java, html, css, python, c++, Datastructure**
+- 🌱 I’m currently learning **Java, html, css, python, Datastructure**
 
 
 <h3 align="left">Languages and Tools:</h3>
